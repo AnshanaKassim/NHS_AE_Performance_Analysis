@@ -114,6 +114,7 @@ These measures were developed to support healthcare KPI reporting and enable dyn
 ## Data Source
 
 NHS England – A&E Attendances and Emergency Admissions Data
+Source: https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/
 
 ---
 
